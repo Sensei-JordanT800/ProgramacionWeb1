@@ -1,0 +1,97 @@
+
+
+  body{
+    background-image: url(Imagenes/vuelo.jpg);
+    background-repeat: no-repeat;
+    Background-size: cover;
+    Background-attachment: fixed;
+  }
+    
+    .divmenu{
+        border:2px blanchedalmond solid;
+        border-radius: 10px;
+        width: 17%;
+        background-color: darkgrey;
+    }
+    
+    ul{  
+        overflow: hidden; 
+    }
+
+    .menuli{
+        float: left;
+        display: block;
+        padding: 10px;
+        
+    }
+
+    div{
+        margin: auto;
+        width: 550px;
+    }
+
+    h2{
+        font-size: 20px;
+        text-align: center;
+    }
+
+    .subtitulo2{
+        font-size: 15px;
+        text-align: center;
+    }
+
+    p{
+        text-align: center;
+        background-color: aquamarine;
+        border-radius: 10px;
+        padding: 10px 20px;
+        
+    }
+    
+    h1{
+        font-size: 60px;
+        text-align: center;
+        color: red;
+    }
+    
+    .luis, .alan, .mariel, .modo, .lethal{
+        float: left;
+        display: block;
+        padding: 30px;
+        background: rgb(24, 231, 235);
+        margin: 30px 60px;
+        margin-bottom: 60px;
+        border: 3px white solid;
+        border-radius: 30px;
+        
+    }
+
+    h4{
+        margin-top: 100px;
+        font-size: 20px;
+        text-align: center;
+    }
+
+    .vluis, .vmaleta{
+        float: left;
+        width: 500px;
+        height: 300px;
+        margin-left: 150px;
+        margin-bottom: 30px;
+        border-radius: 5px;
+    }
+
+    .vblanco, .vrojo{
+        float: right;
+        width: 500px;
+        height: 300px;
+        margin-right: 150px;
+        margin-bottom: 30px;
+        border-radius: 5px;
+    }
+
+
+    
+
+    
+

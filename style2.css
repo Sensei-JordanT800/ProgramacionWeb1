@@ -1,0 +1,71 @@
+body{
+    background-image: url(Imagenes/Fondo.jpg);
+    background-repeat: no-repeat;
+    Background-size: cover;
+    Background-attachment: fixed;
+}
+h1{
+    font-size: 55px;
+    color: black;
+    text-align: center;
+}
+
+p{
+    font-size: 30px;
+    color: black;
+    text-align: center;
+}
+
+table{
+    margin: auto;
+    width: 80%;
+    border: 4px greenyellow solid;
+}
+.pais{
+    width: 30%;
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    background: blue;
+    border: 2px blue double;
+
+}
+.imagen{
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    background: blue;
+    border: 2px blue double;
+}
+
+td{
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    background: cornflowerblue;
+    border: 2px blue solid;
+}
+
+.divmenu{
+    border:2px blanchedalmond solid;
+    border-radius: 10px;
+    width: 17%;
+    background-color: darkgrey;
+}
+
+ul{  
+    overflow: hidden; 
+}
+
+.menuli{
+    float: left;
+    display: block;
+    padding: 10px;
+    
+}
+
+div{
+    margin: auto;
+    width: 550px;
+}
