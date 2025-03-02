@@ -3,8 +3,8 @@
   body{
     background-image: url(Imagenes/vuelo.jpg);
     background-repeat: no-repeat;
-    Background-size: cover;
-    Background-attachment: fixed;
+    background-size: cover;
+    background-attachment: fixed;
   }
     
     .divmenu{
